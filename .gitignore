@@ -1,0 +1,15 @@
+*.jpg
+.DS_Store
+dataset/.DS_Store
+dataset/train/.DS_Store
+dataset/train/cataract/.DS_Store
+dataset/train/normal/.DS_Store
+dataset/validation/.DS_Store
+dataset/validation/cataract/.DS_Store
+dataset/validation/normal/.DS_Store
+logs/.DS_Store
+logs/fit/.DS_Store
+logs/fit/20240704-114324/train/events.out.tfevents.1720082608.Selman-MacBook-Air.local.43232.0.v2
+logs/fit/20240704-153413/train/events.out.tfevents.1720096523.Selman-MacBook-Air.local.46171.0.v2
+weights/first weight.keras
+weights/secondweight.keras
