@@ -13,3 +13,6 @@ logs/fit/20240704-114324/train/events.out.tfevents.1720082608.Selman-MacBook-Air
 logs/fit/20240704-153413/train/events.out.tfevents.1720096523.Selman-MacBook-Air.local.46171.0.v2
 weights/first weight.keras
 weights/secondweight.keras
+models-weights/vgg16/VGG16 Finetuned Model1.h5
+models-weights/inseptionresnetv2/secondweight.keras
+models-weights/inseptionresnetv2/first weight.keras
